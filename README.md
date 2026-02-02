@@ -1,1 +1,1 @@
-"# curso-react-rj" 
+Aprendendo React JS na Pratica!
