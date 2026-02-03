@@ -1,4 +1,4 @@
-
+import Header from './components/Header'
 import './App.css'
 
 export default function App() {
@@ -6,7 +6,7 @@ export default function App() {
 
   return (
     <>
-      <p className='helo'>Primeiro Projeto React</p>
+      <Header />
     </>
   )
 }
